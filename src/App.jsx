@@ -3,7 +3,7 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 
 export default function App() {
-  const myName = "Michael Peter";
+  const myName = "John Doe";
 
   return (
     <main>
@@ -32,7 +32,7 @@ export default function App() {
 
       <article>
         <h3>{myName}</h3>
-        <h4>September 23, 2023</h4>
+        <h4>September 24, 2023</h4>
       </article>
     </main>
   );
